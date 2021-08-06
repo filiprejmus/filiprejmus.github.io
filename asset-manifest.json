@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/filiprejmus.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/filiprejmus.github.io/static/js/main.4e690d01.chunk.js",
+    "main.js.map": "/filiprejmus.github.io/static/js/main.4e690d01.chunk.js.map",
+    "runtime-main.js": "/filiprejmus.github.io/static/js/runtime-main.8b9c0e8a.js",
+    "runtime-main.js.map": "/filiprejmus.github.io/static/js/runtime-main.8b9c0e8a.js.map",
+    "static/js/2.50261720.chunk.js": "/filiprejmus.github.io/static/js/2.50261720.chunk.js",
+    "static/js/2.50261720.chunk.js.map": "/filiprejmus.github.io/static/js/2.50261720.chunk.js.map",
+    "static/js/3.74be9eda.chunk.js": "/filiprejmus.github.io/static/js/3.74be9eda.chunk.js",
+    "static/js/3.74be9eda.chunk.js.map": "/filiprejmus.github.io/static/js/3.74be9eda.chunk.js.map",
+    "index.html": "/filiprejmus.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/filiprejmus.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.50261720.chunk.js.LICENSE.txt": "/filiprejmus.github.io/static/js/2.50261720.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/filiprejmus.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b9c0e8a.js",
+    "static/js/2.50261720.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4e690d01.chunk.js"
+  ]
+}
