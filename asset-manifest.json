@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.168dc75b.css",
-    "main.js": "/static/js/main.2d246e13.js",
+    "main.js": "/static/js/main.dd982788.js",
     "static/js/787.f93e5ecc.chunk.js": "/static/js/787.f93e5ecc.chunk.js",
     "static/media/Uber_Logo_Black.png": "/static/media/Uber_Logo_Black.b014966f59d84d81d54e.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.168dc75b.css.map": "/static/css/main.168dc75b.css.map",
-    "main.2d246e13.js.map": "/static/js/main.2d246e13.js.map",
+    "main.dd982788.js.map": "/static/js/main.dd982788.js.map",
     "787.f93e5ecc.chunk.js.map": "/static/js/787.f93e5ecc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.168dc75b.css",
-    "static/js/main.2d246e13.js"
+    "static/js/main.dd982788.js"
   ]
 }
