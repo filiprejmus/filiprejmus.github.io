@@ -2,17 +2,11 @@
 layout: post
 title:  "GSOC 2022 Report - React Native SDK for Jitsi-Meet"
 date:   2022-10-23 12:09:21 +0200
-categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Over the last four months I had the chance to contribute to [Jitsi Meet][jitsi-gh]. A popular feature of Jitsi is their offering of SDKs for React, iOS and Android which enables developers to embed a video conferencing feature in their apps including the complete capability of the Jitsi Meet app. As React-Native has become a big part of the mobile app development community and they missed a way to include Jitsi in their React-Native apps, the project idea got published on the GSOC ideas board.
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+## Project scope
+After clarifying what the SDK needed to have with the community I proposed a React Native SDK that would expose React Native components with a similar functionality of the already known Jitsi Meet Native SDK classes. Interestingly enough, these Native SDKs are already utilising a React Native Component at their core that exposes Jitsi’s functionality for native mobile apps. Consequently, it was not necessary to rewrite all functionalities in React from scratch. After getting a great walkthrough from my mentors [Saul][saghul] and [Titus][titus] we decided to create a SDK Component that would expose those exisiting components.
 
 {% highlight ruby %}
 def print_hi(name)
@@ -22,8 +16,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jitsi-gh]: https://github.com/jitsi/jitsi-meet
+[saghul]:   https://github.com/saghul
+[titus]: https://github.com/tmoldovan8x8
