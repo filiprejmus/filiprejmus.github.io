@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "GSOC 2022 Report - React Native SDK for Jitsi-Meet"
 date:   2022-10-23 12:09:21 +0200
 categories: jekyll update
 ---
