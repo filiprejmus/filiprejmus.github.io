@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Graduate student in Computer Science at Berlin Institute of Technology. While my academic work is very math heavy and focussed on Deep Neural Network explainability and Computer Graphics I am currently diving into the Observability of Kubernetes Cloud Environments. Above that is my love for great flat whites and basketball 🏀
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## CV
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Experience
+#### Soundhound
+##### 22/02 - 
+Software Engineer Intern
 
-
-[jekyll-organization]: https://github.com/jekyll
+#### Uber
+##### 21/01 - 21/08 
+Data Insights and Automations Intern
